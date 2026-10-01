@@ -39,7 +39,7 @@
                         <a class="nav-link" href="index.html">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
+                        <a class="nav-link" href="about.html">Acerca De</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="post.html">Sample Post</a>
