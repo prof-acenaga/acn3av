@@ -36,7 +36,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="index.html">10 para Tomas</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.html">Acerca De</a>
